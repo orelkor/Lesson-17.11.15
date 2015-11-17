@@ -1,0 +1,14 @@
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\Students2.DAL.dll.config
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\Students2.DAL.dll
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\Students2.DAL.pdb
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\EntityFramework.dll
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\Students2.Core.dll
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\Students2.Core.pdb
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\EntityFramework.xml
+D:\Новая папка\бла\code\Students2\Students2.DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Новая папка\бла\code\Students2\Students2.DAL\obj\Release\Students2.DAL.csprojResolveAssemblyReference.cache
+D:\Новая папка\бла\code\Students2\Students2.DAL\obj\Release\Students2.DAL.dll
+D:\Новая папка\бла\code\Students2\Students2.DAL\obj\Release\Students2.DAL.pdb
+D:\Новая папка\бла\code\Students2\Students2.DAL\obj\Release\Students2.DAL.Migrations._base.resources
+D:\Новая папка\бла\code\Students2\Students2.DAL\obj\Release\Students2.DAL.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+D:\Новая папка\бла\code\Students2\Students2.Core\bin\Release\Students2.Core.dll
+D:\Новая папка\бла\code\Students2\Students2.Core\bin\Release\Students2.Core.pdb
+D:\Новая папка\бла\code\Students2\Students2.Core\obj\Release\Students2.Core.dll
+D:\Новая папка\бла\code\Students2\Students2.Core\obj\Release\Students2.Core.pdb
+D:\Новая папка\бла\code\Students2\Students2.Core\obj\Release\Students2.Core.csprojResolveAssemblyReference.cache
