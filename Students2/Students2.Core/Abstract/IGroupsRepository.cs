@@ -12,5 +12,6 @@ namespace Students2.Core.Abstract
         IEnumerable<Group> GetGroups();
         int Add(Group group);
         void Edit(Group group);
+        void Delete(int id);
     }
 }

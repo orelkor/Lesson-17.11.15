@@ -44,7 +44,35 @@ namespace Students2.DAL
 
         public void Edit(Core.Entities.Group group)
         {
-            throw new NotImplementedException();
+            using (StudentsModel context = new StudentsModel())
+            {
+                var editingGroup = context
+                    .Groups
+                    .FirstOrDefault(x => x.Id == group.Id);
+
+                if (editingGroup == null)
+                    throw new ArgumentException("group is not found");
+
+                editingGroup.Name = group.Name;
+                context.SaveChanges();
+            }
+        }
+
+
+        public void Delete(int id)
+        {
+            using (StudentsModel context = new StudentsModel())
+            {
+                var deletingGroup = context
+                    .Groups
+                    .FirstOrDefault(x => x.Id == id);
+
+                if (deletingGroup == null)
+                    throw new ArgumentException("group is not found");
+
+                context.Groups.Remove(deletingGroup);
+                context.SaveChanges();
+            }
         }
     }
 }

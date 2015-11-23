@@ -11,5 +11,6 @@ namespace Students2.Core.Abstract
     {
         public abstract IEnumerable<Group> Groups();
         public abstract Group Save(Group group);
+        public abstract void DeleteGroup(int groupId);
     }
 }
